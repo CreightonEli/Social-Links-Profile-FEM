@@ -1,0 +1,17 @@
+html {
+    background-color: var(--off-black);
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    text-align: center;
+    background-color: var(--off-black);
+    margin: 0;
+    padding: 24px;
+    font-family: var(--font-inter);
+}

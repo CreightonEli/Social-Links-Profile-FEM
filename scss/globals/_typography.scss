@@ -1,0 +1,26 @@
+a, a:visited, a:active {
+    text-decoration: none;
+}
+
+h1, h2, p {
+    color: var(--white);
+    margin: 0;
+}
+
+h1 {
+    font-weight: 600;
+    margin-bottom: 9px;
+}
+
+h2 {
+    color: var(--green);
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 28px;
+}
+
+p {
+    margin: 0 0 18px;
+    font-size: 14px;
+    font-weight: 400;
+}
