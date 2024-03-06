@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://creightoneli.github.io/social-links-profile-fem](https://creightoneli.github.io/social-links-profile-fem)
+- [Solution](https://www.frontendmentor.io/solutions/social-links-profile-V0kUL9cBzd)
+- [Live Site](https://creightoneli.github.io/Social-Links-Profile-FEM/)
 
 ## My process
 
